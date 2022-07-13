@@ -1,0 +1,71 @@
+.size{
+    height: 400px;
+    
+    background-color: lightcyan;
+}
+.abc{
+    background-color:red;
+}
+.ab{
+    color: black;
+}
+.size1{
+    height: 97%;
+    background-color:rgb(211, 202, 202);
+  
+
+}
+.xy{
+    margin-top: -17px;
+}
+.bcenter{
+width: 100%
+}
+.lowg{
+    background-color: blue;
+    height: 50px;
+    text-align: center;
+  
+
+}
+
+.grid5{
+    background-color: aquamarine;
+    
+}
+
+
+
+.abcde{
+    background-color: rgb(134, 134, 207);
+    height: 130px;
+}
+.row1
+{
+    background-color:black;
+    height: 30vh;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 100px;
+   
+}
+.list1 {
+    float: left;
+    position: relative;
+    margin:-29px -4px 0px -44px;
+  }
+  .list2 {
+    float: right;
+    position: relative;
+    margin:-28px 4px -3px 0px;
+  }
+  p{
+color:white;
+  }
+  .mcc{
+      margin-top: -50px;
+  }
+  .cardb1{
+      background-color:yellow;
+      height: 100%;
+  }
